@@ -44,8 +44,8 @@ An e-commerce platform for a cake baking business built with the **MERN stack**.
 
 If you're interested in collaborating or have any questions, feel free to reach out to me.
 
-- Email: [your-email@example.com](mailto:mrsayuvannan0910@gmail.com)
-- LinkedIn: [Sayuvannan LinkedIn](https://www.linkedin.com/in/Ajram07/)
+- Email: [mrsayuvannan0910@gmail.com](mailto:mrsayuvannan0910@gmail.com)
+- LinkedIn: [Sayuvannan](https://www.linkedin.com/in/Ajram07/)
 
 ## License
 
